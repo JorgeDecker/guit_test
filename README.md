@@ -1,2 +1,2 @@
 # guit_test
-Hello Odin!
+Hello Odin PROJECT!
